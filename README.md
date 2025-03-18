@@ -34,5 +34,4 @@ O projeto foi desenvolvido utilizando **HTML**, **CSS** e **JavaScript**. O **HT
 
    Para começar, copie ou acesse este link:
 
-   ```bash
    (https://amigo-secreto-omega-five.vercel.app/)
