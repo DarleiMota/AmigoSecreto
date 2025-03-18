@@ -1,7 +1,5 @@
 # Amigo Secreto 🎉
 
-![Amigo Secreto](https://via.placeholder.com/1200x400.png?text=Amigo+Secreto)  
-
 ## Resumo do Projeto
 
 O projeto **Amigo Secreto** é uma aplicação simples e interativa para organizar sorteios de amigo secreto. O usuário pode adicionar amigos à lista e, com um clique de botão, realizar o sorteio aleatório dos nomes. Ideal para jogos de confraternização, como festas de fim de ano ou qualquer ocasião especial.
