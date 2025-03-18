@@ -32,6 +32,6 @@ O projeto foi desenvolvido utilizando **HTML**, **CSS** e **JavaScript**. O **HT
 
 1. **Clone ou Baixe o Repositório**
 
-   Para começar, copie ou acesse este link:
+   Para testar acesse este link:
 
    https://amigo-secreto-omega-five.vercel.app/
