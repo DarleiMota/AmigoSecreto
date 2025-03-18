@@ -8,9 +8,7 @@ O projeto **Amigo Secreto** é uma aplicação simples e interativa para organiz
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=flat&logo=javascript&logoColor=black)
-- **HTML** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- **CSS** ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## Explicação Detalhada do Projeto
 
@@ -37,4 +35,4 @@ O projeto foi desenvolvido utilizando **HTML**, **CSS** e **JavaScript**. O **HT
    Para começar, clone ou baixe este repositório para o seu computador:
 
    ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/DarleiMota/AmigoSecreto.git
