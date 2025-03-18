@@ -32,7 +32,7 @@ O projeto foi desenvolvido utilizando **HTML**, **CSS** e **JavaScript**. O **HT
 
 1. **Clone ou Baixe o Repositório**
 
-   Para começar, clone ou baixe este repositório para o seu computador:
+   Para começar, copie ou acesse este link:
 
    ```bash
-   git clone https://github.com/DarleiMota/AmigoSecreto.git
+   https://amigo-secreto-omega-five.vercel.app/
