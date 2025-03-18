@@ -1,4 +1,5 @@
 let amigo = [];
+let sorteados = []; 
 
 function adicionarAmigo() {
     let pegarNome = document.getElementById('amigo');
@@ -43,6 +44,14 @@ function sortearAmigo() {
         return;
     }
 
-    let sorteado = amigo[Math.floor(Math.random() * amigo.length)];
+    let amigosDisponiveis = amigo.filter(nome => !sorteados.includes(nome));
+
+    if (amigosDisponiveis.length === 0) {
+        alert("Todos os amigos já foram sorteados!");
+        return;
+    }
+
+    let sorteado = amigosDisponiveis[Math.floor(Math.random() * amigosDisponiveis.length)];
+    sorteados.push(sorteado);
     document.getElementById('resultadoSorteio').textContent = `Sorteado: ${sorteado}`;
 }
